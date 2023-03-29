@@ -31,7 +31,7 @@ To train your own PyTorch GAN to generate anime character images, follow these s
 
 1. Organize your dataset into a folder containing image files (JPEG or PNG). Each image should be of the same size (e.g., 64x64 pixels).
 
-2. Clone or download the [GitHub repository](https://github.com/yourusername/pytorch-gan-anime) that contains the GAN code.
+2. Clone or download the [GitHub repository](https://github.com/G-r-ay/Anime-GAN.git) that contains the GAN code.
 
 3. Edit the `config.py` file in the repository to set the parameters for training, such as the path to your dataset folder, the number of epochs, and the batch size.
 
