@@ -10,6 +10,7 @@ To run the GAN, you will need:
 - PyTorch 1.7 or higher
 - torchvision
 - matplotlib
+- [Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
 
 You can install the required packages using `pip`:
 
