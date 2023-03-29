@@ -20,7 +20,7 @@ You can install the required packages using `pip`:
 
 To generate anime character images using the pre-trained GAN, follow these steps:
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/G-r-ay/Anime-GAN.git
 
 
 2. Run the `generate_images.py` script: python generate_images.py
